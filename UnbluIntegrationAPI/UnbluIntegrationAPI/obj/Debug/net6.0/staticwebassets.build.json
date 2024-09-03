@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GPQQS8KWfF2khVH7UHP8X6KEBD5PGKwH3pk8gVjM7Pg=",
+  "Source": "UnbluIntegrationAPI",
+  "BasePath": "_content/UnbluIntegrationAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

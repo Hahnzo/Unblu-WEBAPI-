@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnbluIntegrationAPI", "UnbluIntegrationAPI\UnbluIntegrationAPI.csproj", "{915E1FC8-2101-4EFB-B1B3-D018387A6EA1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{915E1FC8-2101-4EFB-B1B3-D018387A6EA1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{915E1FC8-2101-4EFB-B1B3-D018387A6EA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{915E1FC8-2101-4EFB-B1B3-D018387A6EA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{915E1FC8-2101-4EFB-B1B3-D018387A6EA1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {27366F59-7920-4015-B38E-A1AA1357A172}
+	EndGlobalSection
+EndGlobal
